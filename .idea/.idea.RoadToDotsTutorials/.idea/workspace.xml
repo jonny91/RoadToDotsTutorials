@@ -5,25 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff19322a-5c1e-4d48-af90-f04f2414c420" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Authoring/HomeAuthoring.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Authoring/HomeAuthoring.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Authoring/ResourceAuthoring.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Authoring/ResourceAuthoring.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Systems/RenderingSystem.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Systems/RenderingSystem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/PiecesGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/PiecesGenerator.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RoadToDotsTutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RoadToDotsTutorials/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Prefabs/Home.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Prefabs/Home.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Prefabs/Resource.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Prefabs/Resource.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scenes/ant_dots.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scenes/ant_dots.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scenes/ant_subscene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scenes/ant_subscene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Authoring/AntAuthoring.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Authoring/AntAuthoring.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Authoring/AntSpawnerSettingsAuthoring.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Authoring/AntSpawnerSettingsAuthoring.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Authoring/LevelSettingsAuthoring.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Authoring/LevelSettingsAuthoring.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Components/Pheromone.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Components/Pheromone.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Jobs/AntAIJob.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Jobs/AntAIJob.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Systems/AntAISystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Systems/AntAISystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Systems/LevelLogicSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Systems/LevelLogicSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AdvancedTutorials/Common.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EntitiesTutorials/Lesson1/Scenes/EntitiesScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EntitiesTutorials/Lesson1/Scenes/EntitiesScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_StandaloneWindows.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_StandaloneWindows.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +26,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9b9fa26e86114fcba20da47317e725fe172c00/6e/e77e64be/IJobParallelForTransform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Authoring/AntAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Components/ColonyID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Components/Pheromone.cs" root0="FORCE_HIGHLIGHTING" />
@@ -47,7 +38,7 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.burst@1.8.8/Runtime/Intrinsics/Common.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.burst@1.8.8/Tests/Editor/EditmodeTest.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collections@2.1.4/Unity.Collections.Tests/UnsafeQueueTests_InJobs.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities.graphics@1.0.16/Unity.Entities.Graphics/EntitiesGraphicsLightBakingDataSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities.graphics@1.0.16/Unity.Entities.Graphics/EntitiesGraphicsLightBakingDataSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/DocCodeSamples.Tests/BakingExamples.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/DocCodeSamples.Tests/BakingPrefabExamples.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/DocCodeSamples.Tests/ChunkIterationJob.cs" root0="SKIP_HIGHLIGHTING" />
@@ -71,6 +62,7 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.Tests/ForEachCodegen/JobEntityISystemTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.Tests/SystemAPIQueryBuilderCodeGen/SystemAPIQueryBuilderCodeGenTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.Tests/SystemBaseSingletonAccessTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.Tests/WorldTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/EntityManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/IJobChunk.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/SourceGenerators/Source~/SystemGenerator.SystemAPI.QueryBuilder/SystemAPIQueryBuilderDescription.cs" root0="SKIP_HIGHLIGHTING" />
@@ -137,11 +129,11 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/Toggle/ToggleTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/Util/ExceptionUtils.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.1/Editor/VisualScripting.Core/Dependencies/ReorderableList/Internal/ReorderableListResources.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/259299276808b41e0142bf74c18d9755/Message/MessageTemp/22ea80de7b7f661a271227f115cfa02b/File/UIDrawCall.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -151,29 +143,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Discover.Launch.Via.Unity": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "XThreadsFramesViewSplitterKey": "0.48792884",
+    "git-widget-placeholder": "develop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/Users/haibowang/Library/Application Support/JetBrains/Rider2023.2/resharper-host/DecompilerCache&quot;,
-      &quot;/Users/haibowang/Library/Application Support/JetBrains/Rider2023.2/resharper-host/SourcesCache&quot;,
-      &quot;/Users/haibowang/.local/share/Symbols/src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\hongjinmin\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\hongjinmin\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\hongjinmin\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="启动 Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2022.2.12f1/Unity.app/Contents/MacOS/Unity" />
@@ -183,8 +177,16 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <method v="2" />
     </configuration>
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Build\RoadToDotsTutorials.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\workspace\RoadToDotsTutorials\Build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/MacOS/Unity" />
+      <option name="EXE_PATH" value="D:\Unity\2022.3.8f1c1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath $PROJECT_DIR$ -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -192,9 +194,17 @@
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/MacOS/Unity" />
+      <option name="EXE_PATH" value="D:\Unity\2022.3.8f1c1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath $PROJECT_DIR$ -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="D:\Unity\2022.3.8f1c1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\workspace\RoadToDotsTutorials -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\workspace\RoadToDotsTutorials" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <method v="2" />
@@ -292,14 +302,17 @@
       <workItem from="1698893887888" duration="17624000" />
       <workItem from="1698980659732" duration="12734000" />
       <workItem from="1699006775742" duration="3020000" />
+      <workItem from="1699260006266" duration="6009000" />
+      <workItem from="1699361433147" duration="1482000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>

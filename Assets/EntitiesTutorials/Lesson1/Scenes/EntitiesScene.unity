@@ -758,6 +758,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedCube
       objectReference: {fileID: 0}
+    - target: {fileID: 2234016861423463656, guid: c60556dad8edd4fb1b53832a9cfdffaf,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7481326198784983471, guid: c60556dad8edd4fb1b53832a9cfdffaf,
         type: 3}
       propertyPath: m_RootOrder
@@ -1131,3 +1136,16 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1326295266}
   m_SourcePrefab: {fileID: 100100000, guid: 0b97a24e31d4943d08b0239a8b054522, type: 3}
+--- !u!1660057539 &9223372036854775807
+SceneRoots:
+  m_ObjectHideFlags: 0
+  m_Roots:
+  - {fileID: 25758688}
+  - {fileID: 1750821519}
+  - {fileID: 1340229166}
+  - {fileID: 783091148}
+  - {fileID: 1598480291}
+  - {fileID: 256183142}
+  - {fileID: 631800015}
+  - {fileID: 1950395212}
+  - {fileID: 1185074747}
