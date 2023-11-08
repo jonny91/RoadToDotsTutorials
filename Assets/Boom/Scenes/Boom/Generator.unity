@@ -164,11 +164,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 348413314}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 06791950257c490695454de8fe4195cd, type: 3}
+  m_Script: {fileID: 11500000, guid: 95b3a77dc4f64ca380a75ec63b94f080, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   PiecePrefab: {fileID: 3941025172132943660, guid: ae869c28d537e1c4bb2d72726ff6c25e,
     type: 3}
+  Radio: 2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

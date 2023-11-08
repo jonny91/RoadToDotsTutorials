@@ -8,27 +8,22 @@
 // *************************************************************************************
 
 using Unity.Entities;
+using Unity.Rendering;
 using UnityEngine;
 
 namespace Boom
 {
-    public class PiecesGenerator : MonoBehaviour
+    public class AssetsAuthoring : MonoBehaviour
     {
         [SerializeField]
-        private GameObject PiecePrefab;
+        public AssetsReferences AssetsReferences;
 
-        /// <summary>
-        /// 半径
-        /// </summary>
-        [SerializeField]
-        private int Radius = 10;
-
-        private class PiecesGeneratorBaker : Baker<PiecesGenerator>
+        private class AssetsBaker : Baker<AssetsAuthoring>
         {
-            public override void Bake(PiecesGenerator authoring)
+            public override void Bake(AssetsAuthoring authoring)
             {
-                var generateEntity = GetEntity(TransformUsageFlags.Dynamic);
-                
+                var entity = GetEntity(TransformUsageFlags.None);
+                AddComponent(entity, authoring.AssetsReferences);
             }
         }
     }

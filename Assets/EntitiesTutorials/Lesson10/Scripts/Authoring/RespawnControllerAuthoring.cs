@@ -19,11 +19,15 @@ namespace DOTS.DOD.LESSON10
     public class RespawnControllerAuthoring : MonoBehaviour
     {
         public GameObject[] spawners = null;
-        [Range(1, 5)]public float timer = 3.0f;
+
+        [Range(1, 5)]
+        public float timer = 3.0f;
+
         public class Baker : Baker<RespawnControllerAuthoring>
         {
             public override void Bake(RespawnControllerAuthoring authoring)
             {
+#if UNITY_EDITOR
                 var entity = GetEntity(TransformUsageFlags.None);
                 var data = new RespawnController
                 {
@@ -39,6 +43,7 @@ namespace DOTS.DOD.LESSON10
                     };
                     buffer.Add(elem);
                 }
+#endif
             }
         }
     }
