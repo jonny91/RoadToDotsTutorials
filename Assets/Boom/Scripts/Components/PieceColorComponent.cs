@@ -1,19 +1,21 @@
 // *************************************************************************************
 //  *
-//  * 文 件 名:   ParentShapeComponent.cs
+//  * 文 件 名:   PieceColorComponent.cs
 //  * 描    述:
 //  *
 //  * 创 建 者：  洪金敏
-//  * 创建时间：  2023-11-08 19:50
+//  * 创建时间：  2023-11-09 0:57
 // *************************************************************************************
 
 using Unity.Entities;
 using Unity.Mathematics;
+using Unity.Rendering;
 
 namespace Boom
 {
-    public struct ParentShapeComponent : ISharedComponentData
+    [MaterialProperty("_BaseColor")]
+    public struct PieceColorComponent : IComponentData
     {
-        public float3 Center;
+        public float3 Color;
     }
 }

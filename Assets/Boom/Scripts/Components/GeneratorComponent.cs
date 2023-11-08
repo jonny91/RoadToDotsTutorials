@@ -17,5 +17,6 @@ namespace Boom
         public Entity Proto;
         public int Radio;
         public float3 Center;
+        public float Intensity;
     }
 }

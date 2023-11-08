@@ -22,12 +22,11 @@ namespace Boom.Systems
         public void OnStartRunning(ref SystemState state)
         {
             var generatorComponent = SystemAPI.GetSingleton<GeneratorComponent>();
-            var shape = state.EntityManager.CreateEntity();
-            state.EntityManager.AddComponentData(shape, new ParentShapeComponent()
+            var shape = new ParentShapeComponent
             {
                 Center = generatorComponent.Center,
-            });
-            
+            };
+
             var radio = generatorComponent.Radio;
             var proto = generatorComponent.Proto;
             for (var x = -radio; x <= radio; x++)
@@ -36,13 +35,27 @@ namespace Boom.Systems
                 {
                     for (var y = -radio; y <= radio; y++)
                     {
+                        if (math.distance(new float3(x, y, z), shape.Center) >= radio)
+                        {
+                            continue;
+                        }
+
                         var piece = state.EntityManager.Instantiate(proto);
                         state.EntityManager.SetComponentData(piece, new LocalTransform()
                         {
                             Position = new float3(x, y, z),
                             Rotation = quaternion.identity,
-                            Scale = 0.5f,
+                            Scale = .9f,
                         });
+                        state.EntityManager.AddComponentData(piece, new MoveComponent());
+                        state.EntityManager.AddComponentData(piece, new BoomComponent()
+                        {
+                            Boom = false,
+                            Center = float3.zero,
+                            Intensity = generatorComponent.Intensity,
+                        });
+                        state.EntityManager.AddComponentData(piece, new PieceColorComponent());
+                        state.EntityManager.AddSharedComponent(piece, shape);
                     }
                 }
             }

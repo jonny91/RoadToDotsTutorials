@@ -16,6 +16,7 @@ namespace Boom
     {
         public GameObject PiecePrefab;
         public int Radio = 10;
+        public float Intensity = 1;
 
         private class GeneratorBaker : Baker<Generator>
         {
@@ -27,7 +28,8 @@ namespace Boom
                 {
                     Proto = proto,
                     Radio = authoring.Radio,
-                    Center = authoring.PiecePrefab.transform.position,
+                    Center = authoring.transform.position,
+                    Intensity = authoring.Intensity,
                 });
             }
         }

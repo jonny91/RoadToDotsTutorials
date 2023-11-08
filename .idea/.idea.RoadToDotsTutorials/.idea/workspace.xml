@@ -5,41 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff19322a-5c1e-4d48-af90-f04f2414c420" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Authoring.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Authoring/Generator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Authoring/Generator.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/AssetsReferences.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/AssetsReferences.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/GeneratorComponent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/GeneratorComponent.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/MoveComponent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/MoveComponent.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/ParentShapeComponent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/ParentShapeComponent.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/PieceAspect.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/PieceAspect.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Jobs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Jobs/CreatePiecesJob.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Jobs/CreatePiecesJob.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/SystemGroups.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/SystemGroups/BoomSystemGroup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/SystemGroups/BoomSystemGroup.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/SystemGroups/StartBoomSystem.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/SystemGroups/StartBoomSystem.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Systems.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Systems/PieceCreateSystem.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Systems/PieceCreateSystem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/BoomComponent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/BoomComponent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/PieceColorComponent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/PieceColorComponent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Jobs/BoomJob.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Jobs/BoomJob.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Systems/InputSystem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Systems/InputSystem.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RoadToDotsTutorials/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RoadToDotsTutorials/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Boom/Prefabs/piece.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Boom/Prefabs/piece.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Boom/Scenes/Boom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Boom/Scenes/Boom.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Boom/Scenes/Boom/Generator.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Boom/Scenes/Boom/Generator.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Boom/Scripts/PiecesGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Authoring/AssetsAuthoring.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Boom/Scripts/PiecesGenerator.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Authoring/AssetsAuthoring.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EntitiesTutorials/Lesson10/Scripts/Authoring/RespawnControllerAuthoring.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EntitiesTutorials/Lesson10/Scripts/Authoring/RespawnControllerAuthoring.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Boom/Scripts/Authoring/Generator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Authoring/Generator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/GeneratorComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/GeneratorComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/ParentShapeComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Components/ParentShapeComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Boom/Scripts/SystemGroups/StartBoomSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Systems/BoomSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Boom/Scripts/SystemGroups/StartBoomSystem.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Systems/BoomSystem.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Boom/Scripts/Systems/PieceCreateSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Boom/Scripts/Systems/PieceCreateSystem.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-Balanced.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-Balanced.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-HighFidelity.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-HighFidelity.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Settings/URP-Performant.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/URP-Performant.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +40,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/dedf330ffb3c4fac85f3f8cfd02fd46694ac00/30/1cb5cf8a/ProfilerWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4107869553534ef1882f3aa854263c6a94be00/5f/8b18ccfb/AssetDatabase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ba21a481584a451d88799f71bd5bdb73174000/41/bf4eea87/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Authoring/AntAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Components/ColonyID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Components/Pheromone.cs" root0="FORCE_HIGHLIGHTING" />
@@ -59,12 +50,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Systems/AntAISystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Systems/AntSpawnerSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AdvancedTutorials/AntPhermones/Scripts/Systems/LevelLogicSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://D:/workspace/RoadToDotsTutorials/Assets/EntitiesTutorials/Lesson1/Scenes/EntitiesScene.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.burst@1.8.8/Runtime/Intrinsics/Common.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.burst@1.8.8/Tests/Editor/BurstInspectorGUITests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.burst@1.8.8/Tests/Editor/EditmodeTest.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collections@2.1.4/Unity.Collections.Tests/UnsafeQueueTests_InJobs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities.graphics@1.0.16/Unity.Entities.Graphics/Deformations/Systems/PushBlendWeightSystem.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities.graphics@1.0.16/Unity.Entities.Graphics/EntitiesGraphicsLightBakingDataSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities.graphics@1.0.16/Unity.Entities.Graphics/MeshRendererBaking.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/DocCodeSamples.Tests/BakingExamples.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/DocCodeSamples.Tests/BakingPrefabExamples.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/DocCodeSamples.Tests/BlobAssetBakingExamples.cs" root0="SKIP_HIGHLIGHTING" />
@@ -78,7 +67,10 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.Editor.Tests/GUI/WeakReferencePropertyDrawerTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.Editor/Search/SystemSearchProvider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.Hybrid.Tests/Conversion/Incremental/IncrementalHierarchyTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.PerformanceTests/BufferLookupPerformanceTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.PerformanceTests/EnabledBitsPerformanceTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.PerformanceTests/EntityQueryIncrementalCachingPerformanceTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.PerformanceTests/ForEachPerformanceTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.PerformanceTests/SystemUpdatePerformanceTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.Tests/ArchetypeChunkArrayTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.Tests/Aspects/AspectTests.cs" root0="SKIP_HIGHLIGHTING" />
@@ -95,9 +87,14 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities.Tests/WorldTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/EntityManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/IJobChunk.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/IJobEntity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/Iterators/EntityQuery.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/Serialization/EntityPrefabReference.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/SourceGenerators/Source~/SystemGenerator.SystemAPI.QueryBuilder/SystemAPIQueryBuilderDescription.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/SourceGenerators/Source~/SystemGeneratorTests/IdiomaticCSharpForEach/ForEachErrorTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/SourceGenerators/Source~/SystemGeneratorTests/SystemAPIQueryBuilderErrorTests/SystemAPIQueryBuilderErrorTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/SystemAPI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/SystemBaseRegistry.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Entities/SystemState.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Scenes.Editor.Tests/Content/ContentDeliveryServiceTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.0.16/Unity.Scenes.Hybrid.Tests/Playmode/PrefabTestAuthoring.cs" root0="SKIP_HIGHLIGHTING" />
@@ -112,28 +109,13 @@
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@1.0.16/Samples~/CustomPhysicsAuthoring/Unity.Physics.Custom/Joints/ModifyJointLimitsAuthoring.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@1.0.16/Samples~/CustomPhysicsAuthoring/Unity.Physics.Custom/Joints/RagdollJoint.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@1.0.16/Tests/PlayModeTests/Collision/Geometry/BoundingVolumeHierarchyBuilderTests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@14.0.8/Editor/AdditionalPropertiesState.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@14.0.8/Editor/PostProcessing/LensFlareDataSRPEditor.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.8/Editor/CacheServer/CacheServerUploaderWindow.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.8/Editor/CacheServer/Client.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.8/Editor/CacheServer/FileDownloadItem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.8/Editor/CacheServer/IDownloadItem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.8/Editor/Tasks/CalculateAssetDependencyData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.8/Editor/Utilities/GraphicsSettingsApi.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.8/Editor/Utilities/LinkXMLGenerator.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.8/Editor/Utilities/USerialize/DeSerializer.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.8/Editor/Utilities/USerialize/Serializer.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.8/Editor/WriteTypes/SceneRawWriteOperation.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.8/Tests/Catalog.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.21.8/Tests/Editor/CacheServer/Tests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@14.0.9/Shaders/Lit.shader" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.searcher@4.9.2/Samples~/Editor/SearcherExampleComponentEditor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.searcher@4.9.2/Samples~/Editor/SearcherExampleHostWindow.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.serialization@3.1.1/Tests/Unity.Serialization.Tests/Json/JsonSerializationTests.FromJson.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.serialization@3.1.1/Tests/Unity.Serialization.Tests/Json/JsonWriterTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.serialization@3.1.1/Tests/Unity.Serialization.Tests/SerializationTestFixture.Dictionary.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.serialization@3.1.1/Tests/Unity.Serialization.Tests/SerializationTestFixture.System.IO.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@14.0.8/Editor/Data/SubGraph/SubGraphAsset.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@14.0.8/Editor/Generation/Data/FieldDependency.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Editor/TMP_BaseEditorPanel.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_MaterialManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.5/Editor/Animation/AnimationClipCurveCache.cs" root0="SKIP_HIGHLIGHTING" />
@@ -181,31 +163,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Discover.Launch.Via.Unity": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "XThreadsFramesViewSplitterKey": "0.48792884",
-    "git-widget-placeholder": "develop",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.48792884&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\hongjinmin\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
-      "C:\\Users\\hongjinmin\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
-      "C:\\Users\\hongjinmin\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Jonny\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Jonny\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Jonny\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="启动 Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="/Applications/Unity/Hub/Editor/2022.2.12f1/Unity.app/Contents/MacOS/Unity" />
@@ -224,7 +206,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="D:\Unity\2022.3.8f1c1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.11f1c1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath $PROJECT_DIR$ -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -232,7 +214,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="D:\Unity\2022.3.8f1c1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.11f1c1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath $PROJECT_DIR$ -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -265,10 +247,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="167504">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="11836">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="167504" />
+      <option name="pid" value="11836" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -342,6 +324,8 @@
       <workItem from="1699006775742" duration="3020000" />
       <workItem from="1699260006266" duration="6009000" />
       <workItem from="1699361433147" duration="20145000" />
+      <workItem from="1699449828031" duration="3215000" />
+      <workItem from="1699454621228" duration="9265000" />
     </task>
     <task id="LOCAL-00001" summary="boom demo入口">
       <option name="closed" value="true" />
@@ -374,6 +358,5 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="boom demo入口" />
-    <option name="LAST_COMMIT_MESSAGE" value="boom demo入口" />
   </component>
 </project>
